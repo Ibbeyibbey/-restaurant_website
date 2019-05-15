@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  	<meta charset = "utf-8">
+	  <title>About</title>	
+    <link href="styles.css" type="text/css" rel="stylesheet"/>
+  </head>
+
+ <body>
+ <header>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+</header>
+
+
+    <main>
+
+      <h1>About</h1>
+
+      <p> Lets Eat! is the brainchild of Kelly Fitzsimmons & Terry Wilson, veterans of the service industry with 15 years of combined experience.<br> Terry is the creative force behind "Le Chine petite sous" of Beverly Hills. In 2018, the two decided they HAD to open a restaurant that would pay homage to small plates and clean meals as well as give back to the community.</p>
+
+      <p> The project would be named "Lets Eat!" because this is the first thing Kelly said to Terry, when they met at a cooking class in Silverlake. The restaurant idea was simple: serve fresh food at a very affordable price and nourish the community. Lets Eat! also operates a food pantry that can be accessed Monday -Friday and features pay what you can pricing model on the weekends. "We really want to change how people view food and teach our community how to live better lives".</p>  
+
+      <p> Kelly and Terry want Lets Eat! to feel welcoming and warm as if you're in a family or close friends house. The restraunt is set up like a family home with a living room for comfy socializing with firends, a dining room with bench seating and a unique outdoor room with poofs on the grass, benches and standing tables. The dinnerware is a mishmash of handmade pieces from local super starts "Of Herron" and vintage dinnerware Kelly has collected over the years.
+      </p> 
+
+      <p> They hope to continue to grow Lets Eat! for years to come and inspire other Angelenos to open small businesses and invest in their communities.
+      </p> 
+
+     <img src ="" alt ="pictureofsmallplate" width="00" height="00"/>
+
+   </main>
+    </body>
+
+
+
+    <footer>
+      <a href="#Top"><u>Top!</a></u>
+</footer>
+
+</html>
