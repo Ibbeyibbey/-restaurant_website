@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	  <title>Menu</title>
+    <link href="styles.css" type="text/css" rel="stylesheet"/>
+  </head>
+
+  <body>
+
+  <header>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <h1>Menu</h1>
+      <h2><i> Organic, Delicious and Energizing</i></h2>
+
+      <table class = "center">
+        <img src ="" alt ="pictureofsmallplate" width="00" height="00"/>
+
+        <th> Small Plates </th>
+        <tr>
+          <td>Xephr veggies an rie</td>
+          <td>$5</td>
+        </tr>
+        <tr>
+          <td>Bosch bites</td>
+          <td>$4</td>
+        </tr>
+        <tr>
+          <td>Minisiu bites</td>
+          <td>$4</td>
+        </tr>
+        <tr>
+          <td>Venu souflle</td>
+          <td>$8</td>
+        </tr>
+      </table><br>
+
+      <table class ="center">
+        <img src ="" alt ="pictureofLargeplate" width="00" height="00"/>
+
+        <th> Large Plates </th>
+        <tr>
+          <td>Ephr an rie</td>
+          <td>$9</td>
+        </tr>
+        <tr>
+          <td>Chicken veno lieo</td>
+          <td>$6</td>
+        </tr>
+        <tr>
+          <td>Sandwich oscar lepo</td>
+          <td>$4</td>
+        </tr>
+        <tr>
+          <td>Denonit pluvissay</td>
+          <td>$8</td>
+        </tr>
+      </table><br> 
+
+      <table class ="center">
+        <img src ="" alt ="pictureofjuices" width="00" height="00"/>
+
+        <th>Fresh Juices/Tonics </th>
+        <tr>
+          <td>Sigma juice</td>
+          <td>$3</td>
+        </tr>
+        <tr>
+          <td>Enlight Juice</td>
+          <td>$6</td>
+        </tr>
+        <tr>
+          <td>Ophr Smoothie</td>
+          <td>$4</td>
+        </tr>
+        <tr>
+          <td>Detox tea latte</td>
+          <td>$4</td>
+        </tr>
+      </table><br>
+
+      
+      <p> Catering available! please <a href = "mailto:Isha@ishalovestech.com"> Shoot us an email!</a><br>
+    </main>
+
+    </body>
+
+
+    <footer>
+      <a href="#Top"><u>Top!</a></u>
+
+    </footer>
+</html>
